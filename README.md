@@ -11,3 +11,9 @@ Irá ter também :
 * Validação do Portfólio:
 * Feedback e orientações
 * Autoavaliação 
+
+Design:Escolhi ela, pois foi uma atividade em dupla e foi fácil de fazer.
+
+Fundamentos de TI: Escolhi uma atividade de músicas, pois achei uma atividade legal de se fazer.
+
+Lógica Computacional: Escolhi essa, pois gostei de fazer.
