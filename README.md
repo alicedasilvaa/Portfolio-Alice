@@ -27,5 +27,5 @@ Lógica de programação:Cadastra aluno
 Atividade Herança
 
 Fundamentos de redes de computadores: Atividade DNS,escolhi essa atividade pois gostei de fazer e foi fácil.
-Subredes
+Qualidades do wifi [CLIQUE AQUI](https://www.figma.com/file/MANPAwQulRAsLwpqJvg6mG/Untitled?node-id=0%3A1&t=c3BpquupJpthUWhN-1)
 
