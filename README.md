@@ -24,6 +24,7 @@ Fundamento de bancos e dados: Atividade em dupla, escolhi essa atividade pois co
 Modelo Entidade Relacionamento, foi uma atividade que eu gostei de fazer.
 
 Lógica de programação:Cadastra aluno
+
 Atividade Herança
 
 Fundamentos de redes de computadores: Atividade DNS,escolhi essa atividade pois gostei de fazer e foi fácil.
