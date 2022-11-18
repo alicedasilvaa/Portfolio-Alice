@@ -17,3 +17,12 @@ Design:Escolhi ela, pois foi uma atividade em dupla e foi fácil de fazer.
 Fundamentos de TI: Escolhi uma atividade de músicas, pois achei uma atividade legal de se fazer.
 
 Lógica Computacional: Escolhi essa, pois gostei de fazer.
+
+3 Trimestre:
+
+Fundamento de bancos e dados: Atividade em dupla
+
+Lógica de programação:
+
+Fundamentos de redes de computadores:
+
