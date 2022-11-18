@@ -20,9 +20,12 @@ Lógica Computacional: Escolhi essa, pois gostei de fazer.
 
 3 Trimestre:
 
-Fundamento de bancos e dados: Atividade em dupla
+Fundamento de bancos e dados: Atividade em dupla, escolhi essa atividade pois como foi em dupla foi uma atividade fácil de fazer.
+Modelo Entidade Relacionamento, foi uma atividade que eu gostei de fazer.
 
-Lógica de programação:
+Lógica de programação:Cadastra aluno
+Atividade Herança
 
-Fundamentos de redes de computadores:
+Fundamentos de redes de computadores: Atividade DNS,escolhi essa atividade pois gostei de fazer e foi fácil.
+Subredes
 
